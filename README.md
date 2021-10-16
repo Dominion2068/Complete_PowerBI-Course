@@ -1,4 +1,4 @@
-# [Business Intelligence with Microsoft PowerBI ](https://github.com/Dominion2068/Complete_PowerBI-Course)
+# Business Intelligence with Microsoft PowerBI
 
 
 
