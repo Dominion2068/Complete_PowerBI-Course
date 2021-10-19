@@ -1,8 +1,5 @@
 # Business Intelligence with Microsoft PowerBI
 
-
-
-
 ## Our Focus
 This course is for those those who are interested in understanding the working (in whole and in parts) of Microsoft PowerBI as a tool for business and data analytics. Every module is as a standalone course, therefore, we try to ensure that the course covers your interests all through. We focus on your particular professional and academic interests and we ensure that you are served appropriately. We cover industrywide datasets: Stock market, Sales, Human Resource, Finance, School, Economic, Health etc. This is to get you grounded in across the industries business intelligence. Our code-along teaching methods ensure that you get your hands dirty from day one and you get thoroughly grounded at the end of the course. 
 
@@ -21,12 +18,12 @@ Here you get your hands dirty with everything data pipeline creation, data clean
 
 
 ## Module 3: – Give Purpose to your Data
-Data Modelling is an expertise on its own. One crucial job of the data analyst is to expose the hidden underlying patterns within his datasets and blend these patterns together to create a consistent flow of knowledge and insights from the different tables. To this end, the business analyst is able to automate specific workflows and create reports that are consistent with business objectives. We walk you through different industry specific datasets to broaden your industrywide data modelling knowledge. At the end of this particular module you will be able to automate the data pipeline of different businesses.
+Data Modelling is an expertise on its own. One crucial job of the data analysts is to expose the hidden underlying patterns within their datasets and blend these patterns together to create a consistent flow of knowledge and insights from the different tables. To this end, the business analyst is able to automate specific workflows and create reports that are consistent with business objectives. We walk you through different industry specific datasets to broaden your industrywide data modelling knowledge. At the end of this particular module you will be able to automate the data pipeline of different businesses.
    
 ## Module 4: – Speak The Data Analysis Expression(DAX) Language
 DAX is the formula language that drives PowerBI. Using two inbuilt DAX methods of calculated columns and measures you can extract different new information contained in your datasets to enhances the quality of your outcomes. It is a veritable link between PowerBI and descriptive statistical measures. DAX transforms ordinary figures into a behavioural patterns describing events in the business environment.  
 
 ## Module 5: – Provide Business Insights: Reports and Dashboard 
-With PowerBI we can harmonize data collections, preparation, modelling and transformation efforts into visualizations reports that provide different insights into business processes and strategies. This module gives you a ride through important statistical methods, their visuals and their relevance in providing business insights. This is a deep drive into the world of data visualization using PowerBI, you create meaningful dashboards and reports that captures business essence, direction and provides basis for strategies.
+With PowerBI we can harmonize data collections, preparation, modelling and transformation efforts into visualizations reports that provide different insights into business processes and strategies. This module gives you a ride through important statistical methods, their visuals and their relevance in providing business insights. This is a deep dive into the world of data visualization using PowerBI, you create meaningful dashboards and reports that captures business essence, direction and provides basis for strategies.
 
    
