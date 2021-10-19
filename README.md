@@ -26,7 +26,7 @@ Data Modelling is an expertise on its own. One crucial job of the data analyst i
 ## Module 4: – Speak The Data Analysis Expression(DAX) Language
 DAX is the formula language that drives PowerBI. Using two inbuilt DAX methods of calculated columns and measures you can extract different new information contained in your datasets to enhances the quality of your outcomes. It is a veritable link between PowerBI and descriptive statistical measures. DAX transforms ordinary figures into a behavioural patterns describing events in the business environment.  
 
-## Module 4: – Provide Business Insights: Reports and Dashboard 
+## Module 5: – Provide Business Insights: Reports and Dashboard 
 With PowerBI we can harmonize data collections, preparation, modelling and transformation efforts into visualizations reports that provide different insights into business processes and strategies. This module gives you a ride through important statistical methods, their visuals and their relevance in providing business insights. This is a deep drive into the world of data visualization using PowerBI, you create meaningful dashboards and reports that captures business essence, direction and provides basis for strategies.
 
    
